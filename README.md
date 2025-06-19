@@ -1,68 +1,55 @@
-## Hi there 👋
 # 👋 Hello, I'm Yedida Devi Uma Mani Alekhya
 
-🎓 B.Tech 2nd Year | AI/ML Learner | Python Developer  
-💻 Passionate about building projects, solving DSA, and learning new tech  
-📚 Currently learning Python, Pandas, Numpy, AI, and GitHub  
-🎯 Goal: Become a Data Scientist and get placed with top companies  
-💼 Open to internships, hackathons, and real-world opportunities  
-🌱 I believe in: "Learn daily, grow consistently, build confidently."
+🎓 B.Tech 2nd Year Student | Passionate Learner in AI/ML & Python  
+💻 I enjoy solving real-world problems through coding and continuous learning  
+📍 Currently based in Andhra Pradesh, India
 
 ---
 
-## 🚀 My Learning Journey
-- ✅ Python Basics to Advanced  
-- ✅ Logic Building & DSA (GFG 160 Days Challenge)  
-- ✅ AI/ML Foundation Course (Completed 10 Days with Projects)  
-- ✅ Using Google Colab, GitHub, LinkedIn  
+## 💡 About Me
+
+I'm an aspiring tech enthusiast who loves learning through hands-on projects and self-paced exploration.  
+I believe that curiosity and consistency are the keys to growth. I'm currently building a strong foundation in Python, Data Science, and AI.
 
 ---
 
-## 📫 Connect with Me:
-- ✨ GitHub: [Alekhya138](https://github.com/Alekhya138)
-- 🔗 LinkedIn: *(share your LinkedIn once it's ready)*  
-- 💡 Portfolio: Coming Soon
+## 🚀 What I’m Learning
+
+- ✅ Python (Basics to Advanced)
+- ✅ Pandas, NumPy for data handling
+- ✅ Logic Building & Problem Solving
+- ✅ AI/ML Fundamentals (Completed 10-day course)
+- ✅ Daily DSA practice (GeeksforGeeks 160 Days Challenge)
+- ✅ GitHub & Version Control
+- ✅ Building mini projects in Google Colab
 
 ---
 
-⭐ *Trusting ChatGPT as my mentor for my complete tech journey!*# 👋 Hello, I'm Yedida Devi Uma Mani Alekhya
+## 🔧 Skills
 
-🎓 B.Tech 2nd Year | AI/ML Learner | Python Developer  
-💻 Passionate about building projects, solving DSA, and learning new tech  
-📚 Currently learning Python, Pandas, Numpy, AI, and GitHub  
-🎯 Goal: Become a Data Scientist and get placed with top companies  
-💼 Open to internships, hackathons, and real-world opportunities  
-🌱 I believe in: "Learn daily, grow consistently, build confidently."
-
----
-
-## 🚀 My Learning Journey
-- ✅ Python Basics to Advanced  
-- ✅ Logic Building & DSA (GFG 160 Days Challenge)  
-- ✅ AI/ML Foundation Course (Completed 10 Days with Projects)  
-- ✅ Using Google Colab, GitHub, LinkedIn  
+- **Languages**: Python, C (Basics)
+- **Tools**: Git, Google Colab, VS Code
+- **Libraries**: NumPy, Pandas (Learning: Matplotlib, Scikit-learn)
+- **Platforms**: GitHub, GeeksforGeeks
+- **Soft Skills**: Focused, Disciplined, Self-motivated, Fast Learner
 
 ---
 
-## 📫 Connect with Me:
-- ✨ GitHub: [Alekhya138](https://github.com/Alekhya138)
-- 🔗 LinkedIn: *(share your LinkedIn once it's ready)*  
-- 💡 Portfolio: Coming Soon
+## 📚 Learning Goals
+
+- Build a strong AI/ML portfolio with real projects  
+- Participate in Hackathons & Internships  
+- Become a confident developer and problem solver  
+- Get placed in a top tech company through consistent effort  
 
 ---
 
-⭐ *Trusting ChatGPT as my mentor for my complete tech journey!*
-<!--
-**Alekhya138/Alekhya138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with Me
 
-Here are some ideas to get you started:
+- 🌐 GitHub: [Alekhya138](https://github.com/Alekhya138)
+- 🔗 LinkedIn: [Alekhya Yedida](https://www.linkedin.com/in/alekhya-yedida)
+- 📩 Email: *(You can add if you'd like)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ “I may be just beginning, but I’m building something big — one step at a time.”
