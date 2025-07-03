@@ -48,7 +48,7 @@ I believe that curiosity and consistency are the keys to growth. I'm currently b
 
 - 🌐 GitHub: [Alekhya138](https://github.com/Alekhya138)
 - 🔗 LinkedIn: [Alekhya Yedida](https://www.linkedin.com/in/alekhya-yedida)
-- 📩 Email: *(You can add if you'd like)*
+- 📩 Email: *(allukrishna2006@gmail.com)*
 
 ---
 
